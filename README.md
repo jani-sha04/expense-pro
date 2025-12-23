@@ -14,7 +14,7 @@ A modern, feature-rich expense tracker web application built with Java Maven, HT
 - **🏷️ Categories**: Categorize expenses (Food, Transport, Entertainment, etc.)
 - **⚡ Fast & Lightweight**: No database or backend server required
 
-janisha is a good girl
+janisha is a good git
 
 ## 🚀 Technologies Used
 
